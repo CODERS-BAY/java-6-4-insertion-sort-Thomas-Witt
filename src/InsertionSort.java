@@ -1,7 +1,12 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class InsertionSort {
+    public static void main(String[] args) {
+
+    }
+
+
+
+
+/*
     public static void main(String[] args) {
         int[] list = new int[0];
         Scanner scanner = new Scanner(System.in);
@@ -40,5 +45,5 @@ public class InsertionSort {
             }
         }
         return list;
-    }
+    }*/
 }
